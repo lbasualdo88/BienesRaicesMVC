@@ -1,0 +1,23 @@
+{
+    "name": "leo-h/bienesraices",
+    "description": "Proyecto BienesRaices",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Leonardo Basualdo",
+            "email": "lbasualdo88@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7",
+        "phpmailer/phpmailer": "^6.8",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Model\\" : "./models",
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers"
+        }
+    }
+}
