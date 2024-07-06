@@ -11,7 +11,7 @@ Profesor: Juan De la Torre Valdez<br/>
 Udemy<br/>
 <br/>
 <strong>Curso de donde se aprendió:</strong><br/>
-Desarrollo Web Completo (tipo académico, categoría fullstack)<br/>
+Desarrollo Web Completo<br/>
 <br/>
 <strong>Categoría del Proyecto:</strong><br/>
 Fullstack<br/>
